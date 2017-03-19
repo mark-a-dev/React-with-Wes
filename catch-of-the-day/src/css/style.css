@@ -257,7 +257,8 @@ header.top {
   text-align: center;
 }
 header.top h1 {
-  font-size: 14.4rem;
+  /*font-size: 4.4rem;*/
+  font-size: 8rem;
   line-height: 0.7;
   display: -webkit-box;
   display: -ms-flexbox;
